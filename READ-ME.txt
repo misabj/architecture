@@ -1,0 +1,13 @@
+  =>  Template Name    : Architecture  
+
+  =>  Template Link    : https://scripted.rs//architecture-html-template
+
+  =>  Premium Version  : https://scripted.rs//architecture-html-template-pro
+
+  =>  Template License : https://scripted.rs//license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Scripted
+
+  =>  Author Website   : https://scripted.rs/
+
+  =>  About Scripted : Scripted is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://scripted.rs//about-us )
